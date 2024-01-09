@@ -1,0 +1,21 @@
+
+.drumHolder {
+    display: flex;
+    width: 100vh;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    align-items: stretch;
+}
+
+.drum {
+    background-color: rgb(12, 216, 216);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+    height: 70px;
+    width: 70px;
+    
+}
